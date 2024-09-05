@@ -3,6 +3,11 @@
 ## Project Overview
 This project is a web-based plant recognition application that uses the Baidu API for image classification. Users can upload images or provide image URLs to identify plants. The application provides a user-friendly interface with features like image preview, recognition history, and result display.
 
+
+
+https://github.com/user-attachments/assets/6c61f980-5408-4ba7-8e59-3dd037f7a3c1
+
+
 ## Project Structure
 ```
 plant-recognition/
